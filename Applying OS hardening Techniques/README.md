@@ -14,4 +14,7 @@ Your job is to document the incident in detail, including identifying the networ
 
 
 # Overview 
-Using the knowledge I've gained, I managed to read TCPDump data in order to document and assess security problems that the company has and provide information on brute force attack and how to defend against them 
+
+In this activity, I conducted a security analysis of a brute force attack on YummyRecipesForMe.com. A former employee exploited weak authentication controls by repeatedly guessing the default administrative password, gaining access to the web host. They then injected malicious JavaScript into the website’s source code, prompting visitors to download a compromised file that redirected them to a fake website containing malware.
+
+To investigate, I used tcpdump to analyze network traffic and identify the network protocols involved in the attack. My findings confirmed that the attack was facilitated by the lack of brute force protection measures. Based on this analysis, I recommended implementing strong authentication practices, including complex passwords, multi-factor authentication (MFA), and rate-limiting mechanisms to prevent future unauthorized access.

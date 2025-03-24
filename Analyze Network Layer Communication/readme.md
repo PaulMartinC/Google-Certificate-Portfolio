@@ -1,3 +1,4 @@
 # Scenario 
-For this project i had to take captured data packets as if i was using a network analyzer tool,and i had to identify which network protocol and service were impacted by this incident. Then, i had to write a follow-up report explaining the incident in order to log it for the IT team.
-I Analyzed and can now inspect network traffic and network data to determine what is causing network-related issues during cybersecurity incidents. Getting me close to managing and resolve incidents. For now, i only needed to analyze the situation. 
+For this project, I analyzed captured network data packets, simulating the use of a network analyzer tool, to identify the network protocol and service affected by the incident. I then prepared a follow-up report detailing my findings to document the incident for the IT team.
+
+Through this process, I successfully examined and interpreted network traffic and data to diagnose network-related issues during cybersecurity incidents. This experience has advanced my ability to assess security events, bringing me closer to effectively managing and resolving such incidents. For this project, my focus was solely on analyzing the situation rather than implementing a resolution.
